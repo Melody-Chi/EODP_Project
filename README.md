@@ -24,9 +24,8 @@ League of Legends (LoL) is a popular online multiplayer game. A higher KDA often
 - Libraries: pandas, numpy, matplotlib, seaborn, etc.
 
 ```bash
-git clone 
-cd [repository-folder]
-pip install -r requirements.txt
+git clone https://github.com/Melody-Chi/EODP_Project1.git
+cd League-of-Legends-Matches-Analysing
 ```
 
 ## Usage
